@@ -1,0 +1,13 @@
+{
+  "current_date": "08.07.2026",
+  "internal_infrastructure": {
+    "test_server_status": "ONLINE",
+    "process_manager": "PM2 активен",
+    "deployment_zone": "Локальный дата-центр РФ"
+  },
+  "portfolio_cases_ready": [
+    "ИИ-микросервис для разбора звонков колл-центра",
+    "Мультиагентная система автоматизации SMM в Telegram",
+    "ИИ-ассистент генерации дизайн-спецификаций"
+  ]
+}
